@@ -1,0 +1,6 @@
+public static void main (String[] args)
+{
+   System.out.rintln("Name : Asha");
+   System.out.println("Age: 21");
+   System.out.println("Father name: Rajendra");
+}
